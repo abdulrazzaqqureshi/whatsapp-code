@@ -13,7 +13,7 @@ class myapp extends StatelessWidget {
             height: 100,
             width: 100,
             child: Center(
-              child: Text("numaiHEllo"),
+              child: Text("ABDUL RAZZAQ QURESHI"),
               )
         ),
         )
